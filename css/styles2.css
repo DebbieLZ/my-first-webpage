@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+  text-align: left;
+}
+
+h2 {
+  color:blue;
+  font-style:normal;
+  text-align: left;
+}
+
+p {
+  font-family: Arial;
+
+}
+
+ul {
+  font-size: 15px;
+  line-height: 30px;
+}
+
+li {
+  color:black;
+  font-family: Arial;
+  font-weight: bold;
+  
+}
